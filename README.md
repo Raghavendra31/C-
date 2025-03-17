@@ -1,2 +1,2 @@
 # C-
-C++ basics
+C++ basic
